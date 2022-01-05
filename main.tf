@@ -1,3 +1,1 @@
-output "foo" {
-  value = uuid()
-}
+output "foo" { value = uuid() }
