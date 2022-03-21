@@ -1,1 +1,3 @@
-31c53dca-e79b-7fc5-5277-bc07e13038af
+output "root_dir" {	
+	value = "hello from root directory.testing2"
+}
