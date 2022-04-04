@@ -1,1 +1,3 @@
-0442995b-ca8c-da40-9da1-5f2afd69a7db
+output "root_dir" {
+   value = "hello from root directory50798374-362d-1633-a1f5-c80b71a81397"
+}
