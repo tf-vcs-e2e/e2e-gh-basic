@@ -1,3 +1,3 @@
 output "root_dir" {
-   value = "hello from root directoryb0fcb881-4477-7614-8b7c-3fb42e2998c6"
+   value = "hello from root directoryf5cb4115-5943-44a4-cc6c-ced8f3a15037"
 }
